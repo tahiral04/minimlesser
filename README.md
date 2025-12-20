@@ -38,7 +38,7 @@
 </table>
 
 This is an iPod Mini theme based on the fantastic [Minimless](https://github.com/Olsro/rockbox-mini2g-themes) theme by OlsroFR.
-I did small changes on the WPS and SBS to fit my personal taste:
+I made small changes on the WPS and SBS to fit my personal taste:
 - Added album art placeholder instead of the realtime volume viewer. It also shows on the lock screen
 - Replaced the info about the next song with the album title of the currently playing song
 - Removed the audio format from appearing while changing the volume
