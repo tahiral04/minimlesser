@@ -48,6 +48,7 @@
 %xl(L,speaker.bmp,0,0,9)
 %xl(R,repeatMode.bmp,0,0,5)
 %xl(S,shuffle.bmp,12,0,2)
+%xl(X,icnvwr.bmp,0,0,18)
 %xl(Z,noArt.bmp,0,-7)
 
 # preload fonts
@@ -138,3 +139,7 @@
 # hold icon
 %Vl(hh,0,0,12,12,2)
 %xd(E)
+
+# crossfade
+%V(-12,0,12,12,2)
+%?xf<|%xd(Xo)|%xd(Xo)|%xd(Xo)|%xd(Xo)|%xd(Xo)>
