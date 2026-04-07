@@ -39,7 +39,9 @@
 # Minimless improvements by OlsroFR
 # Minimlesser improvements by tahiral04
 
-# preload icons
+# preload fonts and icons
+%Fl(2,14-Rockbox-Mix.fnt)
+%Fl(3,11-Sazanami-Mincho.fnt)
 %xl(A,batt.bmp,0,0,16)
 %xl(B,d.bmp,0,0,7)
 %xl(C,scrub.bmp,0,0,2)
@@ -50,10 +52,6 @@
 %xl(S,shuffle.bmp,12,0,2)
 %xl(X,icnvwr.bmp,0,0,18)
 %xl(Z,noArt.bmp,0,-7)
-
-# preload fonts
-%Fl(2,14-Rockbox-Mix.fnt)
-%Fl(3,11-Sazanami-Mincho.fnt)
 
 # display cover srt if available / reload cover art on hold / show lock icon
 %?mh<%Vd(hh)%?C<%Vd(c)|%Vd(cn)>|%?C<%Vd(c)|%Vd(cn)>>
