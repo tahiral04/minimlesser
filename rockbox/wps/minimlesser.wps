@@ -53,6 +53,10 @@
 %xl(X,icnvwr.bmp,0,0,18)
 %xl(Z,noArt.bmp,0,-7)
 
+# rating
+%V(-20,-51,20,11,3)
+%ar%?if(%rr,>,1)<*%rr|>
+
 # display cover srt if available / reload cover art on hold / show lock icon
 %?mh<%Vd(hh)%?C<%Vd(c)|%Vd(cn)>|%?C<%Vd(c)|%Vd(cn)>>
 
