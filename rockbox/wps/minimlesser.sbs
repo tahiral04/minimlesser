@@ -111,9 +111,6 @@
 %Vl(rr,0,0,-,-,2)
 
 # --- QuickMenu ---
-%Vl(Q,0,16,-,11,-)
-%al%pv dB
-
 %Vl(Q,59,47,17,6,2)
 %xd(Qa)
 
@@ -213,7 +210,7 @@
 
 # menu title
 %Vl(t,13,0,-40,14,2)
-%al%s%?cs<mini|Now Playing|Recording|FM Radio|%Lt|%Lt|%Lt|%Lt|%Lt|%?cc<%?cf<%cH:%cM|%cl:%cM %cP>>|%Lt|Set Option|%Lt|%Lt|%?if(%Lt, =,Context Menu)<Perform Action...|%Lt>|%Lt|%Lt|%Lt|%Lt|%Lt|USB Connected>
+%al%s%?cs<mini|Now Playing|Recording|FM Radio|%Lt|%Lt|%Lt|%Lt|%Lt|%?cc<%?cf<%cH:%cM|%cl:%cM %cP>>%ar%pv dB  |%Lt|Set Option|%Lt|%Lt|%?if(%Lt, =,Context Menu)<Perform Action...|%Lt>|%Lt|%Lt|%Lt|%Lt|%Lt|USB Connected>
 
 # playstatus with crossfade on
 %Vl(i,-36,2,10,10,2)
