@@ -3,35 +3,35 @@
 <table align="center">
     <tr>
         <td align="center">
-            <img src="screenshots/wps.png" alt="WPS" width="274"><br>
+            <img src="screenshots/wps.png" alt="WPS"><br>
             <em>WPS</em>
         </td>
         <td align="center">
-            <img src="screenshots/mainmenu.png" alt="Main Menu" width="274"><br>
+            <img src="screenshots/mainmenu.png" alt="Main Menu"><br>
             <em>Main Menu</em>
         </td>
         <td align="center">
-            <img src="screenshots/wps_noart.png" alt="WPS with cover placeholder" width="274"><br>
+            <img src="screenshots/wps_noart.png" alt="WPS with cover placeholder"><br>
             <em>WPS with cover placeholder</em>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img src="screenshots/lockscreen_art.png" alt="Lock Screen with music playing" width="274"><br>
+            <img src="screenshots/lockscreen_art.png" alt="Lock Screen with music playing"><br>
             <em>Lock Screen with music playing</em>
         </td>
         <td align="center">
-            <img src="screenshots/lockscreen.png" alt="Lock Screen" width="274"><br>
+            <img src="screenshots/lockscreen.png" alt="Lock Screen"><br>
             <em>Lock Screen</em>
         </td>
         <td align="center">
-            <img src="screenshots/lockscreen_noart.png" alt="Lock Screen with cover placeholder" width="274"><br>
+            <img src="screenshots/lockscreen_noart.png" alt="Lock Screen with cover placeholder"><br>
             <em>Lock Screen with cover placeholder</em>
         </td>
     </tr>
     <tr>
         <td colspan="3" align="center">
-            <img src="screenshots/usbmode.png" alt="USB Mode" width="274"><br>
+            <img src="screenshots/usbmode.png" alt="USB Mode"><br>
             <em>USB Mode</em>
         </td>
     </tr>
